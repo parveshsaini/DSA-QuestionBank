@@ -22,5 +22,4 @@ vector<int> ans;
         }
 
     }
-    
     return ans;
